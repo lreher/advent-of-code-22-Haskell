@@ -1,2 +1,3 @@
-# advent-of-code-22-Haskell
-Haskell solutions for Advent of Code 22
+# Haskell solutions for Advent of Code 22
+
+What better way to learn Haskell?
